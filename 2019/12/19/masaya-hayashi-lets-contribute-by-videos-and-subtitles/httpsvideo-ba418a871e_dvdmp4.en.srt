@@ -4,7 +4,7 @@ Hello everyone.
 
 2
 00:00:17,065 --> 00:00:18,812
-In this session.
+In this session
 
 3
 00:00:18,812 --> 00:00:28,356
